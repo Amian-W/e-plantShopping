@@ -1,7 +1,7 @@
 {
-    "homepage": "https://Amian-W/e-plantShopping.git",
     "name": "shoppingcart",
     "private": true,
+    "homepage": "https://Amian-W/e-plantShopping",
     "version": "0.0.0",
     "type": "module",
     "scripts": {
